@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\A\EstructuraCondicional\EstructuraCondicional\bin\Debug\EstructuraCondicional.exe.config
+C:\Users\Usuario\Desktop\A\EstructuraCondicional\EstructuraCondicional\bin\Debug\EstructuraCondicional.exe
+C:\Users\Usuario\Desktop\A\EstructuraCondicional\EstructuraCondicional\bin\Debug\EstructuraCondicional.pdb
+C:\Users\Usuario\Desktop\A\EstructuraCondicional\EstructuraCondicional\obj\Debug\EstructuraCondicional.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\A\EstructuraCondicional\EstructuraCondicional\obj\Debug\EstructuraCondicional.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\A\EstructuraCondicional\EstructuraCondicional\obj\Debug\EstructuraCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\A\EstructuraCondicional\EstructuraCondicional\obj\Debug\EstructuraCondicional.exe
+C:\Users\Usuario\Desktop\A\EstructuraCondicional\EstructuraCondicional\obj\Debug\EstructuraCondicional.pdb
